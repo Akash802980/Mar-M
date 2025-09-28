@@ -9,7 +9,7 @@ backup_url = "https://game.denver1769.fun/Jtv/xVFuuG/Jtv.mpd?id=143"
 zee_m3u_url = "https://raw.githubusercontent.com/alex8875/m3u/refs/heads/main/z5.m3u"
 
 # Playlist file
-m3u_file = "backend.m3u"
+m3u_file = "mr.m3u"
 
 def normalize_jio_token(raw):
     if not raw:
